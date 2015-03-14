@@ -2,6 +2,6 @@ Donald Steinert
 
 Codecademy Labs
 
-Calendar: Ruby on Rails
+Calendar 2: Ruby on Rails
 
-Febryary 19, 2015
+March 14, 2015
